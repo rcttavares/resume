@@ -96,17 +96,23 @@ MORE INFORMATION
 
 WORK EXPERIENCE
 
+* November 2023 – the moment
+  
+  Mid-Level React Developer at Compass UOL, Belo Horizonte/MG - Remote
+  
+  > Micro-frontend; Unitary tests Jest; Mutation tests; Cypress; NextJS; Storybook; Versioning Gitlab; Scrum/Kanban Jira Confluence.
+
 * September 2022 – June 2023
   
   Mid-Level Frontend Developer at Luizalabs, São Paulo/SP - Remote
   
-  > A/B testing; Google Optimize; Development of metrics; DOM in pure JavaScript; Unitary tests Jest; NextJS; Storybook; Versioning Gitlab; Scrum/Kanban Jira Confluence.
+  > A/B testing; Google Optimize; Development of metrics; DOM in pure JavaScript; Versioning Gitlab; Scrum/Kanban Jira Confluence.
 
 * February 2021 – September 2022
   
   Mid-Level Systems Analyst at CI&T, Belo Horizonte/MG - Remote
   
-  > Focus on front-end; App development (Android/IOS); Performance and quality; Unitary tests Jest; React/React Native; Storybook; NodeJS; DynamoDB; Versioning Azure/Bitbucket; Scrum/Kanban Azure and Jira Confluence.
+  > Focus on front-end; App development (Android/IOS); Unitary tests Jest; React/React Native; Storybook; NodeJS; DynamoDB; Versioning Azure/Bitbucket; Scrum/Kanban Azure and Jira Confluence.
 
 * August 2020 – February 2021
   
@@ -118,19 +124,19 @@ WORK EXPERIENCE
   
   Frontend Developer at Stoque Soluções Tecnológicas, Belo Horizonte/MG - In person
   
-  > Performance of interfaces; Code analysis to evaluate and improve style; HTML, CSS and JavaScript/TypeScript; Angular; Versioning Azure; Scrum/Kanban Azure and Trello.
+  > Code analysis to evaluate and improve style; HTML, CSS and JavaScript/TypeScript; Angular; Versioning Azure; Scrum/Kanban Azure and Trello.
 
 * April 2017 – December 2017
   
   Systems Development Intern at VLI Logística, Belo Horizonte/MG - In person
   
-  > Development on the Microsoft Visual Studio platform; HTML, CSS and JavaScript; Angular; SQL Server database; Application of design standards; Versioning Azure; Scrum/Kanban Azure.
+  > Development on the Microsoft Visual Studio platform; HTML, CSS and JavaScript; Angular; SQL Server database; Versioning Azure; Scrum/Kanban Azure.
 
 * February 2014 – April 2015
   
   .NET Developer at BHS - Belo Horizonte Sistemas, Belo Horizonte/MG - In person
   
-  > Development in C#; HTML, CSS and JavaScript/JQuery; SQL Server database; Systems analysis; Versioning FTS; Scrum/Kanban without tool and use the post-its.
+  > Development in C#; HTML, CSS and JavaScript/JQuery; SQL Server database; Versioning FTS; Scrum/Kanban without tool and use the post-its.
 
 ---
 
