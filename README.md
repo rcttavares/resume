@@ -10,8 +10,6 @@ PERSONAL INFORMATION
 
 **Nationality:** Brazilian
 
-**Phone:** +55 (31) 99920-1965
-
 **E-mail:** rafael.tawares@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/rcttavares/
@@ -34,19 +32,21 @@ SKILLS
 
 ★★★★☆ JavaScript
 
-★★★☆☆ TypeScript
+★★★★☆ TypeScript
 
-★★★☆☆ React
+★★★★☆ React
 
-★★★☆☆ React Native
+★★★★☆ React Native
 
-★★★☆☆ NextJS
+★★★★☆ NextJS
 
 ★★★☆☆ CSS-in-JS
 
 ★★★☆☆ Styled Components
 
 ★★☆☆☆ Angular
+
+★☆☆☆☆ VueJS
 
 **Backend:**
 
@@ -96,7 +96,7 @@ MORE INFORMATION
 
 WORK EXPERIENCE
 
-* November 2023 – the moment
+* November 2023 – current
   
   Mid-Level React Developer at Compass UOL, Belo Horizonte/MG - Remote
   
